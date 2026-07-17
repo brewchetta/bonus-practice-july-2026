@@ -1,0 +1,24 @@
+:root {
+    --primary-background: linear-gradient(#261e3a, #743466);
+    --primary-text-color: #2d3838;
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: var(--primary-background);
+    color: var(--primary-text-color)
+}
+
+header {
+    background: url(../assets/feather-close-up.jpg);
+}
+
+.owl-grid {
+    border: solid white 2px;
+    padding: 0.5em;
+}
