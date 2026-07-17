@@ -16,19 +16,19 @@ Choose a topic that you're knowledgeable and build a static webpage for that top
 
 You need to construct the website with at least these elements:
 
-- Your page title should be an `<h1>` element inside of a `<header>`.
+1. Your page title should be an `<h1>` element inside of a `<header>`.
 
-- You should additionally maintain a good hierarchy using `<h2>` and `<h3>` elements as necessary.
+2. You should additionally maintain a good hierarchy using `<h2>` and `<h3>` elements as necessary.
 
-- Create a `<nav>` element near the top of the page which has links to different `id`s on the page.
+3. Create a `<nav>` element near the top of the page which has links to different `id`s on the page.
 
-- Add at least one `<img>` to the page with the appropriate `src` and `alt` attributes.
+4. Add at least one `<img>` to the page with the appropriate `src` and `alt` attributes.
 
-- Place your primary content into a `<main>` element and subdivide sections with `<section>` elements.
+5. Place your primary content into a `<main>` element and subdivide sections with `<section>` elements.
 
 ## Styling
 
-Only when you have added the content should you work on styling! Function before form in this case.
+Only when you have added the content should you work on styling!
 
 ## GitHub
 
@@ -36,4 +36,4 @@ Be sure that as you work you commit every hour or so. Use VS Code to set up a re
 
 ## Deployment
 
-Once you set up your webpage, feel free to deploy it using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
+Once you set up your webpage, feel free to deploy it using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site). Reach out to your instructor if you have any questions.

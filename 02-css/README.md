@@ -20,19 +20,21 @@ The page is currently complete with regards to content but poorly styled.
 
 4. The primary font color doesn't have enough contrast with the background. Choose a new primary font color. You may do this by changing the `--primary-text-color` variable.
 
-5. Text with the class `owl-species` should have an additionally different color to differentiate it from other text. Owl names get some sort of special styling!
+5. Text with the class `owl-species` should be a slightly different color to differentiate it from other text. Owl names get their own special styling!
 
-6. Change the styling for `<a>` tags so that they are also a different color. Remove the `text-decoration` from them. They should be capitalized (you can do this using css).
+6. Change the styling for `<a>` tags so that they are also a different color. Remove the `text-decoration` from them. They should be capitalized using CSS.
 
 7. Find two good fonts on [Google Fonts](https://fonts.google.com/) that fit the theme: one font for titles and a readable font for smaller text. Apply these fonts to the page.
 
-8. Make the navbar a flexbox with spacing as you think is necessary.
+8. Make the navbar a flexbox with `justify-content` as you think is necessary.
 
-9. Give the `<main>` a max-width of `900px` and center it on the page. The images should resize in accordance with the `<main>`.
+9. Give the `<main>` a max-width of `900px` and center it on the page. The images inside should resize in accordance with the `<main>`.
 
-10. It looks like the element with an id of `owl-grid` wants to be a grid. Resize the images just inside this area and use the grid system to generate two columns. Ideally the images should all be the same square size. (HINT: You can use `object-fit: cover` to resize the images without stretching them)
+10. It looks like the element `.owl-grid` wants to be a grid. Resize the images inside this area and use the grid system to generate two columns. Ideally the images should all be the same square size. 
 
-10. Give the `<footer>` a flexbox and background to better identify it compared to the rest of the page.
+(HINT: You can use `object-fit: cover` to resize the images without stretching them)
+
+11. Give the `<footer>` a flexbox and background color of your choice.
 
 ## GitHub
 
